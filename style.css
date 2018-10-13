@@ -2,3 +2,21 @@ body {
 	background: #0f0f0f;
 	color: #cccccc;
 }
+h1{
+	font-size:600%;
+}
+h3, a:visited, a:link {
+    color: #cccccc;
+	font-size: 200%;
+}
+div.main {
+	width:100%
+}
+div#aLink {
+	display: table;
+	margin-top: 15%;
+	margin-left:  auto;
+	margin-right:  auto;
+
+	text-align: center;
+}
